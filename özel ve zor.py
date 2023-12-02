@@ -131,6 +131,37 @@
 #         print('Kaybettin!')
 #     else:
 #         print('Berabere!')
+# for sayi in range(0,1000):
+#     if (sayi%3) == 0 and  (sayi%5) ==0:
+#         print(sayi)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
